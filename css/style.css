@@ -1,0 +1,85 @@
+body{
+  background-color: #D3DEDC;
+}
+@font-face{
+  font-family:"DancingScript"
+  src: url(https://fonts.googleapis.com);}
+
+
+hr{
+  border-style: dotted;
+  border-color: #92A9BD;
+  border-width: 7px;
+  border-bottom-style: none;
+  width: 3%;
+  }
+  h1{
+    color: #7C99AC;
+    text-align: center;
+  }
+  h3{
+    color: #7C99AC;
+    text-align: center;
+  }
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border-radius: 7%;
+}
+
+p{
+  text-align: center;
+}
+
+img{
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul{
+  text-align: center;
+}
+ol{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.name{
+  color: #52616B;
+}
+
+.madsen{
+  color: #88304E;
+}
+
+.p1{
+  font-family:"DancingScript";
+}
+
+.p2{
+  font-size: 15px;
+}
