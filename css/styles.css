@@ -48,15 +48,7 @@ table{
 
 .footer{
   margin-bottom: 5%;
-}
-
-.grid-container{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  max-width: 50%;
-  margin: auto;
-  text-align: center;
-}
+} 
 
 .madsen{
   color: #88304E;
